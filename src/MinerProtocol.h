@@ -9,6 +9,7 @@
 #ifndef cryptoport_MinerProtocol_h
 #define cryptoport_MinerProtocol_h
 #include "Miner.h"
+#include <functional>
 
 namespace Burst
 {
